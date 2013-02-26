@@ -1,6 +1,6 @@
 
 /**
- * Autor Miguel iniesta Garcia
+ * Autor Miguel iniesta
  */
 public class persona {
 	
@@ -33,7 +33,7 @@ public class persona {
 	}
 	
 	/**
-	 * 
+	 * Metodo edad
 	 */
 	public void setEdad(int edad2)
 	{
