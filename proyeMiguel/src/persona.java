@@ -35,9 +35,9 @@ public class persona {
 	/**
 	 * 
 	 */
-	public int setEdad(int edad)
+	public void setEdad(int edad2)
 	{
-		this.edad = edad;
+		this.edad = edad2;
 	}
 	
 	
