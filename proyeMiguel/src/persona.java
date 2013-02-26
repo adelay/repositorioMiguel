@@ -1,5 +1,5 @@
 
-/*
+/**
  * Autor Miguel iniesta Garcia
  */
 public class persona {
@@ -8,7 +8,7 @@ public class persona {
 	String apellido;
 	int edad;
 	
-	/*
+	/**
 	 * devuelve el nombre
 	 */
 	public String getNombre()
@@ -16,7 +16,7 @@ public class persona {
 		return nombre;
 	}
 	
-	/*
+	/**
 	 * metodo que devuelve el apellido
 	 */
 	public String getApellido()
@@ -24,7 +24,7 @@ public class persona {
 		return apellido;
 	}
 	
-	/*
+	/**
 	 * Metodo edad
 	 */
 	public int getEdad()
@@ -32,6 +32,9 @@ public class persona {
 		return edad;
 	}
 	
+	/**
+	 * 
+	 */
 	public int setEdad(int edad)
 	{
 		this.edad = edad;
