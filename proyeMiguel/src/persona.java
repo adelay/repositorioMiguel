@@ -32,5 +32,11 @@ public class persona {
 		return edad;
 	}
 	
+	public int setEdad(int edad)
+	{
+		this.edad = edad;
+	}
+	
+	
 
 }
