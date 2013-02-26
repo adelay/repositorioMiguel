@@ -24,5 +24,10 @@ public class persona {
 		return apellido;
 	}
 	
+	public int getEdad()
+	{
+		return edad;
+	}
+	
 
 }
