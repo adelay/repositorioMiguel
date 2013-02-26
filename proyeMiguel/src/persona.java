@@ -40,6 +40,12 @@ public class persona {
 		this.edad = edad2;
 	}
 	
+	/**
+	 * 
+	 */
+	public void setNombre(String nombre)
+	{
+		this.nombre = nombre;
+	}
 	
-
 }
