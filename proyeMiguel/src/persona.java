@@ -25,7 +25,7 @@ public class persona {
 	}
 	
 	/**
-	 * Metodo edad
+	 * Metodo edad nuevo
 	 */
 	public int getEdad()
 	{
