@@ -1,7 +1,7 @@
 
 /**
  * Autor Miguel iniesta
- * Colaborados Pablixo
+ * Colaborador Pablixo
  */
 public class persona {
 	
