@@ -49,4 +49,8 @@ public class persona {
 		this.nombre = nombre;
 	}
 	
+	public void mostrar(){
+		system.out.println("Nombre" + nombre);
+	}
+	
 }
